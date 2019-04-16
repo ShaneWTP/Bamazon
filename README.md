@@ -1,8 +1,8 @@
-**# Bamazon**
+# Bamazon
 
-**## Objective**
+## Objective
 
-In this application, we are creating a webstore with node using the MySQL database to hold our product information.
+In this application, we are creating the Bamazon webstore with node using the MySQL database to hold our product information. The customer must be able to use the node application to make purchases in the Bamazon webstore.
 
 ### Steps of Functionality
 
@@ -28,6 +28,6 @@ In this application, we are creating a webstore with node using the MySQL databa
 
 	1. The display shows that the customer has input an invalid 	ID # and asked to enter a valid ID #. Then, full procudt 	list is re-displayed.
 
-###Database
+### Database
 
 In addition to the node application functionality. Based on the customer input, the MySQL Bamazon database is used to show the customer if we are in or out of stock on a specific item. If the item(s) is purchased, then the dtatabase will update with the new quantities available.
