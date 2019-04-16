@@ -1,20 +1,20 @@
-**#Bamazon**
+**# Bamazon**
 
-**##Objective**
+**## Objective**
 
 In this application, we are creating a webstore with node using the MySQL database to hold our product information.
 
-###Steps of Functionality
+### Steps of Functionality
 
 * In our node application we first call our application using "node bamazonCustomer.js".
 
 * Once called, our full product inventory is displayed with the:
 
-	*Item ID #
+	* Item ID #
 
-	*Product Name
+	* Product Name
 
-	*Price
+	* Price
 
 * The application then asks the customer to enter the ID # of the product that they wish to purchase.
 
