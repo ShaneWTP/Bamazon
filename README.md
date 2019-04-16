@@ -20,13 +20,13 @@ In this application, we are creating the Bamazon webstore with node using the My
 
 * After a product ID # is selected, the customer is then asked how many of that product they would like to purchase.
 
-* Once the quantity the customer wishes to purchase is entered the customer will have 1 of 3 displays based on their input.
+* Once the quantity the customer wishes to purchase is entered, the customer will have 1 of 3 displays based on their input.
 
 	1. The display shows that we have enough of that item in 	stock, that the order is being processed, that the order is 	then placed, and how much it will cost total.
 
 	1. The display shows that we currently do not have enough of 	that item that they wish to purchase. They can either modify 	the quantity of the item or purchase a different item. Then, 	the full product list is re-displayed.
 
-	1. The display shows that the customer has input an invalid 	ID # and asked to enter a valid ID #. Then, full procudt 	list is re-displayed.
+	1. The display shows that the customer has input an invalid 	ID # and asked to enter a valid ID #. Then, full product 	list is re-displayed.
 
 ### Database
 
