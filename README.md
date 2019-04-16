@@ -32,4 +32,5 @@ In this application, we are creating the Bamazon webstore with node using the My
 
 In addition to the node application functionality. Based on the customer input, the MySQL Bamazon database is used to show the customer if we are in or out of stock on a specific item. If the item(s) is purchased, then the database will update with the new quantities available.
 
-[Bamazon Functionality Demo](https://www.youtube.com/watch?v=U60FNKvk0eQ&feature=youtu.be)
+
+## [Bamazon Functionality Demo](https://www.youtube.com/watch?v=U60FNKvk0eQ&feature=youtu.be)
