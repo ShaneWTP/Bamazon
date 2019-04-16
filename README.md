@@ -26,8 +26,8 @@ In this application, we are creating the Bamazon webstore with node using the My
 
 	1. The display shows that we currently do not have enough of 	that item that they wish to purchase. They can either modify 	the quantity of the item or purchase a different item. Then, 	the full product list is re-displayed.
 
-	1. The display shows that the customer has input an invalid 	ID # and asked to enter a valid ID #. Then, full product 	list is re-displayed.
+	1. The display shows that the customer has input an invalid 	ID # and asked to enter a valid ID #. Then, the full product 	list is re-displayed.
 
 ### Database
 
-In addition to the node application functionality. Based on the customer input, the MySQL Bamazon database is used to show the customer if we are in or out of stock on a specific item. If the item(s) is purchased, then the dtatabase will update with the new quantities available.
+In addition to the node application functionality. Based on the customer input, the MySQL Bamazon database is used to show the customer if we are in or out of stock on a specific item. If the item(s) is purchased, then the database will update with the new quantities available.
